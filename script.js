@@ -58,6 +58,7 @@ searchButton.addEventListener('click', function () {
                 displaySearchResults(results);
                 // Store the search results in LocalStorage
                 localStorage.setItem('searchResults', JSON.stringify(results));
+                return;
             })
             .catch(error => console.error('Error searching movies:', error));
     }

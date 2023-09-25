@@ -148,17 +148,6 @@ nav {
     color: powderblue;
 }
 
-/* Highlight active nav link */
-/* .navbar-nav .nav-item.active .nav-link {
-    background-color: #007bff;
-    border-radius: 5px;
-}
-
-.navbar-nav .nav-item.active .nav-link:hover {
-    background-color: #0056b3;
-    border-radius: 5px;
-} */
-
 /* Search results styles */
 #searchResults .card {
     width: 100%;
